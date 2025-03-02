@@ -43,6 +43,10 @@ To run this project locally, you'll need:
 
     Follow the installation guide here: [https://developers.google.com/web/tools/lighthouse](https://developers.google.com/web/tools/lighthouse)
 
+## Results
+![image](https://github.com/user-attachments/assets/41e1cd19-30cc-4ce4-afda-b0f33e42b525)
+
+
 ## How to Use
 
 ### 1. Run the Streamlit App
